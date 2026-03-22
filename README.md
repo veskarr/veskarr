@@ -18,7 +18,8 @@
       $\color{#dbe1f3}{\textsf{  she / any . unlabeled }}$<br>
       $\color{#c6713b}{\textsf{5teen }}$<br>
       $\color{#eda958}{\textsf{w2i . c+h always ! }}$<br>
-      $\color{#dbe1f3}{\textsf{im a docks lover . . .}}$<br>
+      $\color{#dbe1f3}{\textsf{dont copy my ponies pls :C }}$<br>
+       $\color{#c6713b}{\textsf{inspo is ok  }}$<br>
      <br>
     </th>
   </tr>
