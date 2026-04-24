@@ -1,4 +1,7 @@
-
+<p align="center">
+   <img src="https://cdn3.emoji.gg/emojis/2908-mc-dying.gif" width="100"/>
+   </p>‎
+ 
 <p align="center">
 $${\textsf{\color{#878582}゛Сейчас я один никому я - не рад.  〞}}$$
 <p align="center">
@@ -8,9 +11,6 @@ $${\textsf{\color{#878582}゛Сейчас я один никому я - не р�
  ‎ ‎‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎  <p align="center">$${\textsf{\color{#878582}𓎢𓎠𓎟𓎠𓎡}}$$
 
  </p>
- <p align="center">
-   <img src="https://cdn3.emoji.gg/emojis/2908-mc-dying.gif" width="100"/>
-   </p>‎
  
 
 <p align="center">
@@ -28,3 +28,5 @@ $${\textsf{\color{#ed4f4f} veskar 、ves    }}$$<img src="https://cdn3.emoji.gg/
 $${\textsf{\color{#436771} she . her ♡　  }}$$
                     <p align="center">
 $${\textsf{\color{#843349} c + h  enc . take inspo if u need .  〞}}$$
+                   </p>   
+
