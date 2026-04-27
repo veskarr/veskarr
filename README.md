@@ -27,6 +27,5 @@ $${\textsf{\color{#ed4f4f} veskar 、ves    }}$$<img src="https://cdn3.emoji.gg/
 $${\textsf{\color{#436771} she . her ♡　  }}$$
                     <p align="center">
 $${\textsf{\color{#843349} im mostly in parties or docks .  〞}}$$
-                   </p>   
-                   
-
+                       <p align="center">
+                       </p>
