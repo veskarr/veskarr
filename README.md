@@ -26,6 +26,6 @@ $${\textsf{\color{#ed4f4f} veskar 、ves  、 jude    }}$$<img src="https://cdn3
                   <p align="center">
 $${\textsf{\color{#436771} she . her ♡　  }}$$
                     <p align="center">
-$${\textsf{\color{#843349} c+h enc 〞}}$$
+$${\textsf{\color{#843349} c+h enc :)〞}}$$
                        <p align="center">
                        </p>
